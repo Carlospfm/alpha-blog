@@ -6,5 +6,4 @@ body {
   font-family: Verdana, sans-serif;
   background-size:cover;
   position: relative;
-  background: url(asset_path('background.jpg')); 
 }
